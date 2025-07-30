@@ -1,5 +1,5 @@
 # LPMC
-The official pytorch implementation of [A Lightweight Plastic-Memory Framework for Graph Few-Shot Class-Incremental Learning](https://openreview.net/forum?id=06nAQqtM1W&referrer=%5BAuthor%20Console%5D).
+The official pytorch implementation of "A Lightweight Plastic-Memory Framework for Graph Few-Shot Class-Incremental Learning".
 
 ## Framework
-![](https://github.com/Oasis-codeweb/LPMC/blob/main/MAMCframework.png)
+![](https://github.com/Oasis-codeweb/LPMC/blob/main/MAMCframework2.pdf)
